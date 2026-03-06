@@ -1,0 +1,5 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+models/tmp_tflite_int8_calibration_images.npy

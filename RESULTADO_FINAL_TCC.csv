@@ -1,0 +1,1121 @@
+Painel,Cenario_Injetado,Esperado,Decisao_PAND,Acerto,Relatorio_Completo,Tempo_s
+painel_59,A (Convergência Ruim),LIMPEZA_CORRETIVA,LIMPEZA_CORRETIVA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: LIMPEZA_CORRETIVA]
+
+**Contexto:** O painel_59 apresenta uma eficiência de 62.5%, abaixo do limiar mínimo aceitável de 80%, e foi detectada uma anomalia classificada como ""Dust"" com um score de confiança de 0.27. A eficiência reduzida e a detecção de sujeira indicam a necessidade de intervenção.
+
+**Causa Raiz:** A causa raiz é a combinação de sujeira no painel e possíveis problemas elétricos, resultando em uma perda de eficiência mensurável.
+
+**Contramedidas:** Realizar uma limpeza corretiva do painel_59 para remover a sujeira detectada e possivelmente restaurar a eficiência do painel.
+
+**Prazo Sugerido:** 
+- LIMPEZA_CORRETIVA → Próxima janela de manutenção programada (≤ 7 dias)",5.31
+painel_33,A (Convergência Ruim),LIMPEZA_CORRETIVA,INSPECAO_AMBIGUIDADE,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_33 apresenta uma eficiência de 63.3%, abaixo do limiar mínimo aceitável de 70%, com uma anomalia visual detectada pelo YOLO, mas com baixa confiança. Isso indica uma possível perda mensurável, mas a causa raiz não está clara.
+
+**Causa Raiz:** A causa raiz do problema não está claramente definida, podendo ser devido a sujeira, falhas elétricas ou uma combinação de ambos, devido à baixa confiança na detecção visual e à eficiência abaixo do limiar aceitável.
+
+**Contramedidas:** Realizar uma inspeção mais detalhada do painel_33 para determinar a causa raiz do problema, considerando tanto a possibilidade de sujeira quanto de falhas elétricas.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",4.87
+painel_85,A (Convergência Ruim),LIMPEZA_CORRETIVA,LIMPEZA_CORRETIVA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: LIMPEZA_CORRETIVA]
+
+**Contexto:** O painel apresenta uma eficiência de 56.2%, abaixo do limiar mínimo aceitável de 70%, com detecção visual de anomalia classificada como ""Defective"" e score de confiança de 0.52, indicando necessidade de intervenção para restaurar a eficiência.
+
+**Causa Raiz:** A combinação de baixa eficiência (56.2%) e detecção visual de anomalia com confiança média (0.52) sugere que a sujeira ou defeitos no painel estão afetando seu desempenho, justificando a necessidade de limpeza corretiva.
+
+**Contramedidas:** Realizar limpeza corretiva no painel para remover sujeira ou defeitos que estejam afetando a eficiência, visando restaurar o desempenho do painel para dentro dos parâmetros aceitáveis.
+
+**Prazo Sugerido:** Próxima janela de manutenção programada (≤ 7 dias)",11.26
+painel_15,A (Convergência Ruim),LIMPEZA_CORRETIVA,MANUTENCAO_ELETRICA,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_15 apresenta uma eficiência de 53.0%, abaixo do limiar mínimo aceitável de 70%, e está visualmente limpo de acordo com o laudo do YOLO, com uma detecção de ""Non Defective"" e um score de confiança de 0.7.
+
+**Causa Raiz:** A causa raiz da baixa eficiência do painel_15 é provavelmente uma falha elétrica ou interna, pois a eficiência está abaixo do limiar mínimo aceitável e o YOLO não detectou sujeira.
+
+**Contramedidas:** Realizar manutenção elétrica especializada para investigar e corrigir a causa da perda de eficiência do painel_15.
+
+**Prazo Sugerido:** 
+- MANUTENCAO_ELETRICA → Urgente (≤ 48h), risco de dano permanente ao ativo.",27.56
+painel_24,A (Convergência Ruim),LIMPEZA_CORRETIVA,MANUTENCAO_ELETRICA,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel apresenta uma eficiência de 46.8%, indicando perda severa de geração, com anomalias detectadas pelo YOLO, mas a causa principal parece ser de natureza elétrica ou interna.
+
+**Causa Raiz:** A causa raiz do problema é uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são detectadas pelo YOLO e estão causando a perda de eficiência.
+
+**Contramedidas:** Realizar manutenção elétrica especializada para identificar e corrigir a falha interna ou elétrica que está causando a perda de eficiência do painel.
+
+**Prazo Sugerido:** Urgente (≤ 48h), risco de dano permanente ao ativo.",24.8
+painel_29,A (Convergência Ruim),LIMPEZA_CORRETIVA,LIMPEZA_CORRETIVA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: LIMPEZA_CORRETIVA]
+
+**Contexto:** O painel_29 apresenta uma eficiência de 60.8%, abaixo do limiar mínimo aceitável de 70%, com uma anomalia visual detectada pelo YOLO. A eficiência reduzida e a detecção visual justificam a intervenção para limpeza.
+
+**Causa Raiz:** A causa raiz é a presença de sujeira ou anomalia no painel, detectada pelo YOLO com um score de confiança de 0.43, afetando o desempenho do painel.
+
+**Contramedidas:** Realizar uma limpeza corretiva no painel_29 para tentar restaurar sua eficiência.
+
+**Prazo Sugerido:** LIMPEZA_CORRETIVA → Próxima janela de manutenção programada (≤ 7 dias)",27.31
+painel_86,A (Convergência Ruim),LIMPEZA_CORRETIVA,LIMPEZA_CORRETIVA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: LIMPEZA_CORRETIVA]
+
+**Contexto:** O painel apresenta uma eficiência de 64.9%, abaixo do limiar mínimo aceitável de 70%, com anomalias detectadas pelo sistema de visão computacional, incluindo sujeira e defeitos. A eficiência reduzida e a presença de anomalias indicam a necessidade de intervenção.
+
+**Causa Raiz:** A presença de sujeira ou defeitos no painel, detectada pelo sistema YOLO, é a causa raiz da redução da eficiência do painel.
+
+**Contramedidas:** Realizar limpeza corretiva do painel para remover a sujeira ou defeitos detectados, restaurando assim a eficiência do painel.
+
+**Prazo Sugerido:** 
+- LIMPEZA_CORRETIVA → Próxima janela de manutenção programada (≤ 7 dias)",25.07
+painel_98,A (Convergência Ruim),LIMPEZA_CORRETIVA,MANUTENCAO_ELETRICA,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_98 está operando com eficiência de 45.2%, abaixo do esperado, com detecções visuais de ""Dust"" e ""Defective"" mas com baixa confiança. O status atual indica uma necessidade de intervenção para resolver problemas elétricos ou internos.
+
+**Causa Raiz:** A causa raiz da baixa eficiência do painel_98 é provavelmente de natureza elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são detectados pelo sistema de visão computacional YOLO.
+
+**Contramedidas:** Realizar manutenção elétrica especializada para identificar e corrigir as causas da perda de eficiência, incluindo inspeção detalhada das células, strings e do inversor, e realizar reparos ou substituições necessárias.
+
+**Prazo Sugerido:** 
+- MANUTENCAO_ELETRICA → Urgente (≤ 48h), risco de dano permanente ao ativo",30.71
+painel_51,A (Convergência Ruim),LIMPEZA_CORRETIVA,LIMPEZA_CORRETIVA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: LIMPEZA_CORRETIVA]
+
+**Contexto:** O painel_51 apresenta uma eficiência de 50.3%, abaixo do limiar mínimo aceitável de 70%, com detecção visual de neve pelo YOLO e uma confiança média de 0.46, indicando necessidade de intervenção para restaurar a eficiência.
+
+**Causa Raiz:** A presença de neve no painel_51, detectada pelo YOLO, combinada com a baixa eficiência elétrica, é a causa raiz que justifica a intervenção corretiva, de acordo com os princípios de engenharia de O&M.
+
+**Contramedidas:** Realizar limpeza corretiva no painel_51 para remover a neve e restaurar a eficiência do painel, garantindo a geração de energia ótima.
+
+**Prazo Sugerido:** Próxima janela de manutenção programada (≤ 7 dias)",25.51
+painel_28,A (Convergência Ruim),LIMPEZA_CORRETIVA,LIMPEZA_CORRETIVA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: LIMPEZA_CORRETIVA]
+
+**Contexto:** O painel_28 apresenta uma eficiência de 54.1%, abaixo do limiar mínimo aceitável de 80%, com detecção de anomalias como ""Defective"" e ""Dust"" pelo sistema de visão computacional. Isso indica uma operação subótima do painel.
+
+**Causa Raiz:** A combinação de baixa eficiência e detecção visual de anomalias, como sujeira ou defeitos, está afetando o desempenho do painel.
+
+**Contramedidas:** Realizar limpeza corretiva do painel_28 para tentar restaurar sua eficiência e garantir uma operação ótima.
+
+**Prazo Sugerido:** 
+- LIMPEZA_CORRETIVA → Próxima janela de manutenção programada (≤ 7 dias)",27.0
+painel_12,A (Convergência Ruim),LIMPEZA_CORRETIVA,INSPECAO_AMBIGUIDADE,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_12 apresenta uma eficiência de 55.0%, abaixo do limiar mínimo aceitável de 70%, com detecções visuais de anomalias como **Defective** e **Dust** com baixa confiança. A baixa eficiência e as detecções visuais sugerem uma possível perda mensurável devido à sujeira ou problemas elétricos.
+
+**Causa Raiz:** A causa raiz não pode ser determinada com certeza devido à ambiguidade nas detecções visuais e à baixa eficiência do painel, que pode ser indicativa de problemas elétricos internos ou sujeira.
+
+**Contramedidas:** Realizar uma inspeção mais detalhada do painel para avaliar sua condição e determinar a melhor ação, seja limpeza, manutenção elétrica ou outras intervenções necessárias.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados.",26.38
+painel_78,A (Convergência Ruim),LIMPEZA_CORRETIVA,INSPECAO_AMBIGUIDADE,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_78 apresenta uma eficiência de 51.0%, abaixo do limiar mínimo aceitável de 70%, com detecções de **Defective** e **Dust** pelo sistema de visão computacional YOLO, indicando uma possível perda de eficiência devido a sujeira ou defeito.
+
+**Causa Raiz:** A causa raiz não está claramente definida devido à ambiguidade dos dados, mas a combinação de baixa eficiência e detecções de anomalias visuais sugere que pode haver uma falha interna, sujeira ou defeito no painel que está afetando o desempenho.
+
+**Contramedidas:** Realizar uma inspeção mais detalhada do painel_78 para determinar a causa exata da perda de eficiência e das anomalias detectadas pelo YOLO, considerando a possibilidade de sujeira, defeito ou falha interna.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",28.7
+painel_44,A (Convergência Ruim),LIMPEZA_CORRETIVA,INSPECAO_AMBIGUIDADE,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_44 apresenta uma eficiência de 60.3%, abaixo do limiar mínimo aceitável de 70%, com uma detecção visual de ""Defective"" e um score de confiança de 0.44, indicando uma situação de ambiguidade.
+
+**Causa Raiz:** A causa raiz não é clara, pois a combinação da detecção visual de sujeira com a baixa eficiência elétrica sugere que pode haver tanto problemas de sujeira quanto problemas elétricos internos, necessitando de uma investigação mais detalhada.
+
+**Contramedidas:** Realizar uma inspeção física mais aprofundada ou monitoramento detalhado para determinar a causa exata da baixa eficiência e decidir sobre a intervenção mais adequada, seja limpeza, manutenção elétrica ou outra medida corretiva.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",14.71
+painel_54,A (Convergência Ruim),LIMPEZA_CORRETIVA,MANUTENCAO_ELETRICA,False,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_54 apresenta uma eficiência de 45.0%, indicando perda severa de geração. A detecção de anomalia pelo sistema YOLO não explica a queda de eficiência, sugerindo uma causa interna ou elétrica.
+
+**Causa Raiz:** Falha ou degradação interna do painel ou do sistema de geração de energia, como microcracks, degradação de células, falha de string ou conexões oxidadas.
+
+**Contramedidas:** Realizar manutenção elétrica especializada para identificar e corrigir a causa raiz do problema.
+
+**Prazo Sugerido:** Urgente (≤ 48h), risco de dano permanente ao ativo.",4.49
+painel_43,A (Convergência Ruim),LIMPEZA_CORRETIVA,LIMPEZA_CORRETIVA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: LIMPEZA_CORRETIVA]
+
+**Contexto:** O painel_43 apresenta uma eficiência de 62.6%, abaixo do limiar mínimo aceitável de 80%, com detecção de sujeira (Dust) por meio do laudo visual do YOLO, indicando necessidade de intervenção para recuperação da eficiência.
+
+**Causa Raiz:** A sujeira detectada com baixa confiança pelo YOLO, combinada com a perda de eficiência abaixo de 80%, justifica a intervenção para limpeza corretiva do painel.
+
+**Contramedidas:** Realizar limpeza corretiva do painel_43 para remover a sujeira detectada e tentar recuperar a eficiência do painel.
+
+**Prazo Sugerido:** 
+- LIMPEZA_CORRETIVA → Próxima janela de manutenção programada (≤ 7 dias)",4.98
+painel_68,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_68 apresenta uma eficiência de 97.3%, acima do limite de 88%, indicando operação normal. A detecção de sujeira pelo YOLO tem baixa confiança, não justificando intervenção.
+
+**Causa Raiz:** A detecção visual de sujeira com baixa confiança (0.35) não é suficiente para justificar uma limpeza, considerando a alta eficiência do painel.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",22.75
+painel_05,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_05 apresenta uma eficiência de 92.4%, acima do limite de 88% estabelecido, indicando operação dentro de parâmetros saudáveis. A detecção visual pelo YOLO sugere sujeira, mas a eficiência alta contradiz a necessidade de intervenção.
+
+**Causa Raiz:** A causa raiz é a discordância entre a detecção visual pelo YOLO e a eficiência real do painel, que está acima do limite estabelecido, tornando a detecção um falso positivo econômico.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, como limpeza, devido à eficiência estar acima do limite estabelecido. Manter monitoramento passivo.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",25.94
+painel_30,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_30 apresenta uma eficiência de 94.9%, acima do limite de 88%, indicando operação normal. Detecções visuais de sujeira ou anomalias não justificam intervenção devido à alta eficiência.
+
+**Causa Raiz:** A eficiência do painel está acima de 88%, o que, de acordo com os princípios estabelecidos, indica que o painel está gerando energia normalmente, independentemente de detecções visuais de sujeira ou anomalias.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",25.23
+painel_81,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_81 apresenta uma eficiência de 94.5%, acima do limite de 88%, indicando geração de energia normal. A detecção visual pelo YOLO com baixa confiança não justifica intervenção devido à alta eficiência.
+
+**Causa Raiz:** A detecção visual incerta pelo YOLO com confiança de 0.29 para ""Defective"" é considerada um falso positivo devido à alta eficiência do painel, que está acima do limite estabelecido.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",24.73
+painel_07,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_07 apresenta uma eficiência de 93.2%, indicando geração ótima de energia, apesar de detecções visuais de anomalias. A eficiência alta sugere que o painel está operando normalmente.
+
+**Causa Raiz:** As detecções visuais de **Defective** e **Dust** não correspondem a uma perda de eficiência mensurável, de acordo com os princípios de engenharia de O&M, especificamente o PRINCÍPIO 1 e o PRINCÍPIO 2.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois as detecções visuais não justificam a limpeza ou manutenção do painel.
+
+**Prazo Sugerido:** 
+- FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",26.75
+painel_41,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_41 apresenta uma eficiência de 94.6%, acima do limite de 88%, indicando operação normal. Detecções visuais de sujeira ou anomalias não justificam intervenção devido à alta eficiência.
+
+**Causa Raiz:** A causa raiz é a discordância entre as detecções visuais (YOLO) e a eficiência elétrica do painel, que é considerada soberana de acordo com o PRINCÍPIO 1. A alta eficiência anula a necessidade de considerar as detecções visuais como relevantes para intervenção.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel, considerando a eficiência elétrica como parâmetro soberano.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",28.74
+painel_14,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_14 apresenta uma eficiência de 94.0%, acima do limite estabelecido, indicando operação ótima. Uma detecção de anomalia com baixa confiança foi registrada, mas a alta eficiência sugere que o painel está operando normalmente.
+
+**Causa Raiz:** A detecção de anomalia pelo YOLO com baixa confiança (0.34) não é justificada pela alta eficiência do painel (94.0%), indicando um falso positivo.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel_14.
+
+**Prazo Sugerido:** 
+- FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",24.49
+painel_62,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_62 apresenta uma eficiência de 92.4%, acima do limite de 88% estabelecido, e o sensor visual detectou uma anomalia com confiança média, mas a eficiência elétrica está dentro da faixa normal.
+
+**Causa Raiz:** A detecção visual de anomalia com confiança média (0.43) não é justificada pela eficiência elétrica, que está acima de 88%, indicando um falso positivo.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois a eficiência do painel está dentro dos parâmetros aceitáveis e a limpeza não é justificada economicamente.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",26.48
+painel_31,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_31 apresenta uma eficiência de 97.2%, acima do limite de 88% estabelecido, indicando operação normal. A detecção visual pelo sensor YOLO tem baixa confiança, com um score de 0.34.
+
+**Causa Raiz:** A causa raiz é a detecção visual com baixa confiança pelo sensor YOLO, que não justifica intervenção devido à alta eficiência do painel.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel_31.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",25.22
+painel_66,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_66 apresenta uma eficiência de 93.3%, indicando geração ótima de energia, apesar de detecções visuais de anomalias com baixa confiança. O status do painel é de operação normal.
+
+**Causa Raiz:** A alta eficiência do painel (93.3%) e a baixa confiança nas detecções visuais de anomalias (""Bird Drop"" com score de 0.42 e ""Defective"" com score de 0.31) justificam a classificação como falso positivo, não requerendo intervenção.
+
+**Contramedidas:** Nenhuma ação de limpeza ou manutenção elétrica é necessária. O painel deve continuar operando normalmente, com monitoramento passivo.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",24.74
+painel_34,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_34 apresenta uma eficiência de 94.8%, acima do limite de 88%, indicando operação normal. Detecções visuais de sujeira e anomalias são consideradas falso positivo devido à alta eficiência.
+
+**Causa Raiz:** A alta eficiência do painel (94.8%) indica que as detecções visuais de sujeira e anomalias não estão afetando significativamente a geração de energia, justificando o tratamento como falso positivo.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",27.1
+painel_01,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_01 apresenta uma eficiência de 92.6%, acima do limite de 88%, indicando operação normal. Detecções visuais de ""Dust"" e ""Defective"" têm scores de confiança baixos, não justificando intervenção.
+
+**Causa Raiz:** A alta eficiência do painel (92.6%) e os baixos scores de confiança das detecções visuais (0.31 e 0.27) indicam que as detecções visuais não são significativas o suficiente para justificar uma intervenção.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",25.76
+painel_70,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_70 apresenta uma eficiência de 96.4%, acima do limite de 88%, indicando operação normal. Detecções visuais de sujeira e anomalias não justificam intervenção devido à alta eficiência.
+
+**Causa Raiz:** A causa raiz é a detecção visual de sujeira e anomalias com baixa confiança (0.46 para **Dust** e 0.27 para **Defective**), que não se traduzem em perda mensurável de eficiência, considerando a alta eficiência do painel.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo e continuar operação normal do painel.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",28.22
+painel_35,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_35 apresenta uma eficiência de 94.4%, acima do limite de 88%, indicando operação normal. A detecção visual de neve pelo YOLO tem baixa confiança, não justificando intervenção.
+
+**Causa Raiz:** A alta eficiência do painel (94.4%) e a baixa confiança da detecção visual (0.29) indicam que a detecção de neve é um falso positivo, não requerendo ação corretiva.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. O painel deve continuar a ser monitorado para garantir que sua eficiência se mantenha dentro dos parâmetros aceitáveis.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",25.87
+painel_82,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_82 apresenta uma eficiência de 93.1%, acima do limiar de 88%, indicando operação normal. A detecção visual do YOLO com baixo score de confiança não justifica intervenção.
+
+**Causa Raiz:** A detecção do YOLO com um score de confiança baixo (0.31) para ""Defective"" não é suficiente para justificar intervenção, considerando a alta eficiência do painel.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel_82.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",12.74
+painel_26,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_26 apresenta uma eficiência de 93.5%, acima do limite de 88% estabelecido, indicando operação normal. Detecções visuais de sujeira ou anomalias são consideradas falso positivo devido à alta eficiência.
+
+**Causa Raiz:** A alta eficiência do painel (93.5%) e a ausência de perda mensurável justificam que as detecções visuais sejam consideradas falso positivo, de acordo com os princípios de O&M.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel para garantir que a eficiência continue dentro dos parâmetros normais.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",4.48
+painel_40,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_40 apresenta uma eficiência de 95.3%, acima do limite de 88%, indicando operação normal. A detecção visual de snow tem baixa confiança (0.38), não justificando intervenção.
+
+**Causa Raiz:** A detecção visual de snow com baixa confiança (0.38) não é suficiente para justificar uma intervenção de limpeza ou manutenção, considerando a alta eficiência do painel.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",4.18
+painel_79,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_79 apresentou detecções visuais com baixa confiança, mas a eficiência está em 97.8%, considerada ótima e acima do limiar de 88%. O painel está operando dentro de parâmetros normais.
+
+**Causa Raiz:** A detecção visual com baixa confiança não é justificativa para intervenção devido à alta eficiência do painel, indicando um falso positivo do sensor.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",22.62
+painel_37,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_37 apresenta uma eficiência de 94.9%, acima do limite de 88% estabelecido, indicando operação normal. Detecções visuais de sujeira ou anomalias têm baixa confiança.
+
+**Causa Raiz:** A causa raiz é a detecção visual de baixa confiança (0.38 para ""Defective"" e 0.31 para ""Dust"") que não se alinha com a alta eficiência do painel, sugerindo um falso positivo do sensor.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel, considerando a eficiência alta e as detecções visuais de baixa confiança como falso positivo.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",26.44
+painel_16,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_16 apresenta uma eficiência de 94.3%, acima do limite de 88% estabelecido, e uma detecção visual com baixa confiança de 0.31. A operação está dentro dos parâmetros normais, com alta eficiência e sem necessidade de intervenção.
+
+**Causa Raiz:** A detecção visual pelo YOLO com baixa confiança não é suficiente para justificar uma ação corretiva, considerando a alta eficiência do painel e os princípios de engenharia de O&M.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel_16.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",24.45
+painel_100,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_100 apresenta uma eficiência de 94.7%, acima do limite de 88%, indicando operação normal. A detecção visual de uma possível anomalia com baixa confiança não justifica intervenção devido à alta eficiência.
+
+**Causa Raiz:** A causa raiz é a detecção de uma possível anomalia com baixa confiança (0.3) pelo YOLO, que não é suficiente para justificar intervenção devido à alta eficiência do painel (94.7%).
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. O painel deve continuar em operação sem intervenções adicionais baseadas nas informações atuais.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",26.09
+painel_48,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_48 apresenta uma eficiência de 95.3%, acima do limite de 88% estabelecido, indicando operação normal. A detecção visual de sujeira ou anomalias é considerada um falso positivo devido à alta eficiência.
+
+**Causa Raiz:** A causa raiz é a detecção visual com confiança média que não se alinha com a alta eficiência elétrica do painel, sugerindo um falso positivo do sensor visual.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo e seguir com a rotina de inspeções programadas.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",26.89
+painel_84,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_84 apresenta uma eficiência de 97.8%, acima do limite de 88%, indicando operação normal. Detecções visuais de sujeira ou anomalias não justificam intervenção devido à alta eficiência.
+
+**Causa Raiz:** A causa raiz é a detecção visual de anomalias com baixa confiança (0.5 e 0.28) que não se correlacionam com perda mensurável de eficiência, classificada como falso positivo de acordo com o PRINCÍPIO 1.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. O painel deve continuar operando sem intervenção, mantendo monitoramento passivo.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",27.34
+painel_18,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_18 apresenta uma eficiência de 92.3%, acima do limite de 88% estabelecido, e uma detecção visual de neve com baixa confiança. A eficiência alta indica que o painel está operando dentro dos parâmetros normais.
+
+**Causa Raiz:** A detecção visual de neve pelo YOLO com um score de confiança baixo (0.27) sugere um falso positivo instrumental, onde o sensor detectou artefatos ou sombras passageiras, não indicando obstrução real das células fotovoltaicas.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois a eficiência do painel está acima do limite estabelecido e a detecção visual não justifica uma intervenção de limpeza.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",24.82
+painel_76,B (Falso Positivo),FALSO_POSITIVO_IGNORADO,FALSO_POSITIVO_IGNORADO,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: FALSO_POSITIVO_IGNORADO]
+
+**Contexto:** O painel_76 apresenta uma eficiência de 92.9%, acima do limite de 88% estabelecido, indicando operação normal. Detecções visuais de anomalias não justificam intervenção devido à alta eficiência.
+
+**Causa Raiz:** A causa raiz é a detecção visual de anomalias pelo YOLO que não se correlaciona com perda de eficiência, sugerindo falso positivos econômicos.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. Manter monitoramento passivo do painel_76.
+
+**Prazo Sugerido:** FALSO_POSITIVO_IGNORADO → Nenhuma ação. Manter monitoramento passivo.",27.85
+painel_93,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_93 apresenta uma eficiência de 77.1%, indicando desempenho na zona de ambiguidade, com detecções visuais de sujeira e defeitos, mas sem perda crítica de eficiência. O status atual sugere a necessidade de monitoramento adicional devido à falta de concordância entre dados visuais e telemetria elétrica.
+
+**Causa Raiz:** A causa raiz é a ambiguidade na eficiência do painel (77.1%) e a detecção de anomalias (sujeira e defeitos) pelo sistema de visão computacional, sem uma clara indicação de perda mensurável que justifique intervenção corretiva imediata.
+
+**Contramedidas:** Realizar uma reavaliação em 72 horas com nova coleta de dados para determinar se a eficiência do painel_93 melhorou, piorou ou permaneceu estável, e se as anomalias detectadas pelo YOLO persistem ou foram resolvidas naturalmente.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados.",28.62
+painel_04,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_04 apresenta uma eficiência de 80.7%, dentro da zona cinzenta, com detecção de anomalias (""Dust"" e ""Defective"") por meio do sistema YOLO, mas com scores de confiança médios.
+
+**Causa Raiz:** A causa raiz é a ambiguidade na relação entre a detecção visual de anomalias e a perda de eficiência do painel, devido à eficiência estar na zona cinzenta (entre 80% e 88%) e os scores de confiança da detecção serem médios.
+
+**Contramedidas:** Realizar uma inspeção mais detalhada ou monitoramento contínuo do painel_04 para entender melhor a situação antes de tomar qualquer decisão de manutenção, considerando a zona cinzenta de eficiência e a ambiguidade na detecção visual.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",26.33
+painel_39,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_39 apresenta uma eficiência de 75.0%, colocando sua performance na zona de ambiguidade, com detecções visuais de anomalias (""Defective"" e ""Dust"") com confiança média.
+
+**Causa Raiz:** A causa raiz é a combinação da eficiência do painel estar na zona cinzenta (entre 70% e 88%) e a presença de detecções visuais de anomalias com confiança média, o que não justifica uma intervenção corretiva imediata, mas também não permite ignorar a possibilidade de sujeira ou defeitos.
+
+**Contramedidas:** Realizar monitoramento adicional do painel_39 para coletar mais dados e evidências antes de decidir sobre qualquer intervenção corretiva, como limpeza, garantindo que qualquer ação seja baseada em necessidade clara.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados para determinar a melhor linha de ação.",28.49
+painel_61,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_61 apresenta uma eficiência de 72,5%, com detecções visuais de anomalias, incluindo ""Defective"" e ""Dust"", mas com scores de confiança médio e baixo, respectivamente. Isso coloca o painel na zona de ambiguidade, abaixo do desempenho ideal.
+
+**Causa Raiz:** A causa raiz é a presença de anomalias visuais detectadas pelo sistema de visão computacional (YOLO), como sujeira ou defeitos, que afetam a eficiência do painel, mas com confiança nas detecções não alta o suficiente para justificar ação corretiva imediata.
+
+**Contramedidas:** Reavaliação em 72 horas com nova coleta de dados para monitorar o desempenho do painel e determinar a melhor ação a ser tomada, considerando a eficiência e as detecções visuais.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",30.26
+painel_08,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_08 apresenta uma eficiência de 78.1%, indicando uma perda de eficiência com anomalias detectadas pelo sistema de visão computacional YOLO. A eficiência está na zona de ambiguidade, entre 70% e 88%, sugerindo a necessidade de monitoramento mais próximo.
+
+**Causa Raiz:** A causa raiz não está claramente definida devido à ambiguidade dos dados. A combinação de baixa eficiência e detecção de anomalias pelo YOLO sugere que pode haver um problema de sujeira, defeito de fabricação ou outro tipo de problema afetando a eficiência do painel.
+
+**Contramedidas:** Reavaliação em 72h com nova coleta de dados para determinar a causa exata da perda de eficiência e das anomalias detectadas. Isso pode incluir inspeções visuais mais detalhadas, análise de dados de desempenho do painel e possivelmente testes adicionais para identificar a natureza do problema.
+
+**Prazo Sugerido:**
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",28.74
+painel_52,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_52 apresenta uma eficiência de 70.9%, dentro da zona de ambiguidade, com detecção visual de anomalia suspeita, mas sem indicação clara de necessidade de limpeza ou manutenção elétrica.
+
+**Causa Raiz:** A causa raiz é a ambiguidade na detecção, com confiança média na classe ""Defective"" e eficiência dentro da zona cinzenta, não justificando claramente uma intervenção corretiva sem mais investigação.
+
+**Contramedidas:** Monitorar o painel para entender melhor a natureza da anomalia detectada e a tendência da eficiência antes de decidir sobre qualquer intervenção.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados.",25.56
+painel_74,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_74 apresenta uma eficiência de 70.9%, indicando uma perda de desempenho, mas ainda dentro da zona cinzenta. Detecções visuais pelo YOLO sugerem anomalias, como ""Defective"" e ""Dust"", com scores de confiança média e baixa, respectivamente.
+
+**Causa Raiz:** A causa raiz é a ambiguidade na detecção de anomalias e a eficiência do painel estar na zona cinzenta, não permitindo uma conclusão clara sobre a necessidade de intervenção.
+
+**Contramedidas:** Reavaliação do painel em 72h com nova coleta de dados para entender melhor a causa da perda de eficiência e confirmar ou descartar as anomalias detectadas.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados.",5.1
+painel_09,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_09 apresenta uma eficiência de 80.6%, indicando uma perda de eficiência, mas dentro da zona de ambiguidade. Foram detectadas anomalias visuais com baixa confiança, sugerindo uma possível relação entre essas anomalias e a perda de eficiência.
+
+**Causa Raiz:** A causa raiz é a incerteza sobre a natureza das anomalias detectadas e sua relação com a eficiência do painel, devido à baixa confiança nas detecções de ""Dust"" e ""Defective"" pelo sistema YOLO.
+
+**Contramedidas:** Monitorar o painel_09 por um período para entender melhor a natureza das anomalias detectadas e sua relação com a eficiência do painel, antes de autorizar qualquer intervenção.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados para determinar se a eficiência do painel se mantém estável, melhora ou piora, e se as anomalias visuais persistem ou mudam.",5.06
+painel_88,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_88 apresenta uma eficiência de 80.0%, indicando perda de desempenho, com detecção de anomalias por YOLO, incluindo sujeira e defeito, mas dentro da zona cinzenta de acordo com os Princípios de Engenharia de O&M.
+
+**Causa Raiz:** A causa raiz é a ambiguidade na detecção de anomalias, com scores de confiança médio e baixo para sujeira e defeito, respectivamente, e uma perda de eficiência significativa, mas dentro da zona cinzenta.
+
+**Contramedidas:** Reavaliação em 72h com nova coleta de dados para monitorar o painel e determinar se a eficiência melhora ou se as anomalias persistem, evitando intervenções desnecessárias.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",15.51
+painel_11,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_11 apresenta uma eficiência de 77.8%, indicando uma performance na zona de ambiguidade, com uma detecção visual de anomalia com baixa confiança de 0.3. Isso sugere uma possível relação entre sujeira ou defeito e perda de eficiência, mas sem evidências conclusivas.
+
+**Causa Raiz:** A causa raiz é a ambiguidade nos dados, tanto visuais quanto de telemetria elétrica, que não permitem determinar com certeza se o problema é de natureza elétrica, sujeira ou outro fator, devido à baixa confiança na detecção visual e à eficiência não estar abaixo de 70% ou acima de 88% de forma crítica.
+
+**Contramedidas:** Realizar uma reavaliação em 72 horas com nova coleta de dados para obter mais informações e esclarecer a natureza do problema, permitindo uma decisão mais informada sobre as próximas etapas, seja limpeza, manutenção elétrica ou manter o monitoramento passivo.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",28.02
+painel_19,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_19 apresenta uma eficiência de 78.0%, na zona cinzenta, com detecção visual de ""Non Defective"" mas com baixa confiança de 0.38, indicando ambiguidade na necessidade de intervenção.
+
+**Causa Raiz:** A combinação de eficiência próxima ao limite de 80% e detecção visual com baixa confiança introduz ambiguidade sobre a necessidade de limpeza ou manutenção.
+
+**Contramedidas:** Monitorar o painel_19 por um período para observar a tendência de eficiência e correlacionar com telemetria elétrica, antes de tomar decisões de limpeza ou manutenção.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados.",26.49
+painel_20,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_20 apresenta uma eficiência de 71.3%, indicando uma perda de eficiência, mas não está claro se é devido à sujeira ou a problemas elétricos internos. A detecção visual de uma anomalia com confiança média sugere que pode haver uma relação entre a anomalia detectada e a perda de eficiência.
+
+**Causa Raiz:** A causa raiz da perda de eficiência não está claramente definida, podendo ser multifatorial, incluindo possíveis problemas elétricos internos ou a presença de sujeira, mas a detecção visual de uma anomalia com confiança média indica que a causa pode ser relacionada a uma combinação de fatores.
+
+**Contramedidas:** Reavaliar o painel_20 em 72 horas com nova coleta de dados para uma avaliação mais precisa da natureza da anomalia e da perda de eficiência, garantindo que qualquer ação tomada seja economicamente responsável e tecnicamente justificada.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados",28.09
+painel_25,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_25 apresenta uma eficiência de 78.6%, indicando uma perda de eficiência, mas não é possível determinar a causa sem análise mais detalhada. A detecção visual detectou uma anomalia com confiança média.
+
+**Causa Raiz:** A causa raiz é a ambiguidade na detecção, pois a eficiência está na zona cinzenta (entre 70% e 88%) e a detecção visual não é conclusiva devido à confiança média de 0.48.
+
+**Contramedidas:** Reavaliação em 72h com nova coleta de dados para monitorar o painel e determinar se a eficiência melhora ou piora, evitando intervenções desnecessárias.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",27.53
+painel_80,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel apresenta uma eficiência de 75.9%, indicando perda de eficiência, e detecções visuais de anomalias com scores de confiança variados, sugerindo sujeira ou problemas visíveis que podem estar contribuindo para a perda de eficiência.
+
+**Causa Raiz:** A causa raiz parece estar relacionada às detecções visuais de anomalias, como ""Defective"" com um score de confiança médio, e à perda de eficiência mensurável, que pode estar ligada à sujeira ou a problemas visíveis no painel.
+
+**Contramedidas:** Devido à ambiguidade na diagnose, a contramedida recomendada é o monitoramento adicional do painel para entender melhor a natureza da perda de eficiência e as anomalias detectadas, antes de autorizar qualquer intervenção corretiva.
+
+**Prazo Sugerido:** 
+- INSPECAO_AMBIGUIDADE → Reavaliação em 72h com nova coleta de dados.",28.88
+painel_02,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_02 apresenta uma eficiência de 75.1%, dentro da zona de ambiguidade, com detecção visual de Dust com baixa confiança (0.26) pelo YOLO, indicando necessidade de monitoramento antes de intervenções.
+
+**Causa Raiz:** A combinação de eficiência na zona de ambiguidade (entre 70% e 88%) e detecção visual com baixa confiança justifica a necessidade de monitoramento adicional para evitar intervenções desnecessárias.
+
+**Contramedidas:** Monitorar o painel_02 por um período para coletar mais dados e reavaliar a eficiência e o status visual antes de considerar qualquer ação corretiva, como limpeza ou manutenção elétrica.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados para determinar se a eficiência do painel_02 justifica intervenção ou se permanece dentro da zona de ambiguidade.",24.91
+painel_10,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_10 apresenta uma eficiência de 77.6%, colocando sua performance na zona de ambiguidade, com detecções visuais de ""Dust"" e ""Defective"" de baixa confiança. O status atual indica a necessidade de monitoramento devido à incerteza sobre a necessidade de intervenção.
+
+**Causa Raiz:** A causa raiz é a combinação da eficiência do painel estar na zona de ambiguidade (entre 70% e 88%) e as detecções visuais terem baixa confiança, o que não justifica uma ação corretiva imediata, mas sim um monitoramento para entender a evolução do estado do painel.
+
+**Contramedidas:** Realizar monitoramento contínuo do painel_10 para avaliar se a eficiência continua a cair ou se as condições visuais pioram, antes de decidir sobre a limpeza ou outras intervenções. Isso inclui coletar novos dados visuais e de eficiência para uma reavaliação.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados para determinar se a situação do painel_10 requer intervenção corretiva ou se o monitoramento deve continuar.",26.68
+painel_67,E (Ambiguidade Extrema),INSPECAO_AMBIGUIDADE,INSPECAO_AMBIGUIDADE,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: INSPECAO_AMBIGUIDADE]
+
+**Contexto:** O painel_67 apresenta uma eficiência de 75.1%, indicando uma zona de ambiguidade, com detecções visuais de ""Dust"" e ""Defective"" por meio do sistema YOLO, mas com scores de confiança média.
+
+**Causa Raiz:** A causa raiz é a incerteza sobre a necessidade de intervenção devido à eficiência do painel estar na zona de ambiguidade e às detecções visuais não serem conclusivas o suficiente para justificar uma ação corretiva imediata.
+
+**Contramedidas:** Monitorar o painel_67 por um período adicional para coletar mais dados e reavaliar a necessidade de manutenção, evitando intervenções desnecessárias.
+
+**Prazo Sugerido:** Reavaliação em 72h com nova coleta de dados.",27.9
+painel_75,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_75 está operando com uma eficiência de 38.1%, indicando uma perda severa de geração, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes internos e a reparação ou substituição de partes danificadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo se a manutenção não for realizada prontamente.",22.89
+painel_60,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_60 apresenta uma eficiência de 23.0%, indicando perda severa de geração, com o sensor visual YOLO não detectando anomalias. O painel está operando abaixo da eficiência esperada, com status de geração comprometido.
+
+**Causa Raiz:** A causa raiz é uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho e justificam a baixa eficiência do painel.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes internos e a reparo ou substituição de partes danificadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), risco de dano permanente ao ativo.",21.12
+painel_46,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_46 está operando com uma eficiência de 35.9%, indicando uma perda severa de geração, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, conforme sugerido pelo Princípio 3 — FALHAS ELÉTRICAS SÃO INVISÍVEIS AO OLHO.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, uma vez que a limpeza do painel não é justificada nesse caso.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",22.8
+painel_36,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_36 apresenta uma eficiência de 25.0%, indicando perda severa de geração, com o sensor visual YOLO não detectando anomalias. O painel está operando abaixo da eficiência esperada, com status de geração comprometido.
+
+**Causa Raiz:** A causa raiz é uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho e não foram detectadas pelo sensor YOLO.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo inspeção detalhada das conexões, células e strings do painel.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",22.01
+painel_56,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_56 está operando com uma eficiência de 28.1%, indicando uma perda severa de geração de energia, e o laudo visual do YOLO não detectou anomalias visuais.
+
+**Causa Raiz:** A causa da perda de eficiência é provavelmente um defeito elétrico interno, como uma falha no inversor, uma string aberta ou uma conexão oxidada, de acordo com o Princípio 3, ""FALHAS ELÉTRICAS SÃO INVISÍVEIS AO OLHO"".
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção do inversor, das strings e das conexões elétricas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), risco de dano permanente ao ativo.",21.86
+painel_72,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_72 apresenta uma eficiência de 37.3%, indicando perda severa de geração, com o sensor visual YOLO não detectando anomalias, apesar da baixa eficiência.
+
+**Causa Raiz:** A causa raiz é uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho e justificam a baixa eficiência do painel.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo inspeção detalhada das conexões, células e strings do painel.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",22.76
+painel_06,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_06 está operando com uma eficiência de 20.5%, indicando uma perda significativa de geração de energia. O sensor visual YOLO não detectou anomalias, sugerindo que o problema não é de sujeira ou obstrução.
+
+**Causa Raiz:** A causa da perda de eficiência é provavelmente uma falha elétrica/interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes elétricos e a substituição de peças danificadas se necessário.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",11.16
+painel_03,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_03 está operando com uma eficiência de 36.0%, indicando uma perda severa de geração, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho ou ao sensor visual YOLO.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes internos e a reparo ou substituição de partes danificadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo se a manutenção não for realizada prontamente.",3.65
+painel_49,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_49 está operando com uma eficiência de 35.7%, indicando uma perda severa de geração, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho ou ao sensor visual YOLO.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes internos e a reparo ou substituição de partes danificadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",4.15
+painel_17,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_17 está operando com uma eficiência de 24.4%, indicando uma perda severa de geração. A ausência de anomalias visuais detectadas pelo YOLO sugere que a causa não está relacionada à sujeira ou obstrução visual.
+
+**Causa Raiz:** A causa da perda de eficiência é provavelmente de natureza elétrica ou interna, incluindo possíveis microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho.
+
+**Contramedidas:** Realizar manutenção elétrica especializada no painel_17 para identificar e corrigir a falha elétrica ou interna que está causando a perda de eficiência.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",10.0
+painel_71,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_71 está operando com uma eficiência de 35.9%, indicando uma perda severa de geração, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de geração é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho ou ao sensor visual YOLO.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes internos e a reparação ou substituição de partes danificadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo se a manutenção não for realizada prontamente.",22.58
+painel_38,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_38 está operando com uma eficiência de 26.6%, indicando uma perda severa de geração. O laudo visual do YOLO não detectou anomalias, sugerindo que a causa não está relacionada à sujeira ou obstrução visual.
+
+**Causa Raiz:** A causa raiz é uma falha elétrica interna, invisível ao olho e não detectada pelo YOLO, que está afetando a eficiência do painel.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir a falha elétrica interna.
+
+**Prazo Sugerido:** Urgente (≤ 48h), risco de dano permanente ao ativo.",22.29
+painel_92,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_92 está operando com uma eficiência de 32.8%, indicando uma perda severa de geração de energia. O laudo visual não detectou anomalias, sugerindo que a causa não está relacionada à sujeira ou obstrução visual.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é uma falha elétrica, provavelmente relacionada a um problema no inversor, conforme indicado pela telemetria elétrica.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir a causa da perda de eficiência, com foco no inversor e outros componentes elétricos do painel_92.
+
+**Prazo Sugerido:** MANUTENCAO_ELETRICA → Urgente (≤ 48h), risco de dano permanente ao ativo.",20.93
+painel_58,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_58 está operando com uma eficiência de 38.8%, indicando uma perda severa de geração de energia, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, conforme sugerido pelo Princípio 3 — FALHAS ELÉTRICAS SÃO INVISÍVEIS AO OLHO.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, uma vez que a limpeza do painel não é justificada devido à baixa eficiência e à ausência de sujeira ou anomalias detectadas pelo YOLO.
+
+**Prazo Sugerido:** 
+- MANUTENCAO_ELETRICA → Urgente (≤ 48h), risco de dano permanente ao ativo.",21.99
+painel_50,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_50 está operando com uma eficiência de 39.3%, indicando uma perda severa de geração. O laudo visual do YOLO não detectou anomalias, sugerindo que a causa não está relacionada à sujeira ou obstrução visual.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica interna, invisível ao olho e não detectada pelo YOLO, conforme o Princípio 3.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, abordando possíveis falhas internas ou elétricas no painel_50.
+
+**Prazo Sugerido:** MANUTENCAO_ELETRICA → Urgente (≤ 48h), risco de dano permanente ao ativo.",22.48
+painel_89,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_89 está operando com uma eficiência de 34.6%, indicando uma perda severa de geração, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, devido à eficiência estar abaixo de 70% sem anomalias visuais detectadas.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, focando em possíveis falhas internas ou elétricas no painel.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",21.98
+painel_27,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_27 apresenta uma eficiência de 27.7%, indicando perda severa de geração, com o sensor visual YOLO não detectando anomalias visuais.
+
+**Causa Raiz:** A causa da perda de geração é provavelmente elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, devido à eficiência estar abaixo de 70% com o painel visualmente limpo.
+
+**Contramedidas:** Realizar manutenção elétrica especializada para identificar e corrigir o problema, incluindo inspeção de microcracks, degradação de células, falhas de string e conexões oxidadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",21.47
+painel_53,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_53 está operando com uma eficiência de 20.0%, indicando uma perda severa de geração, apesar de estar visualmente limpo de acordo com o sensor YOLO.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes internos e a reparação ou substituição de partes danificadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",21.9
+painel_64,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_64 está operando com uma eficiência de 34.8%, indicando uma perda significativa de geração de energia. O sensor visual YOLO não detectou anomalias, sugerindo que o problema não está relacionado à sujeira ou obstrução.
+
+**Causa Raiz:** A causa raiz do problema é uma falha elétrica/interna, possivelmente devido a microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho e requerem manutenção elétrica especializada.
+
+**Contramedidas:** Realizar manutenção elétrica especializada no painel_64 para identificar e corrigir a falha elétrica/interna, garantindo a restauração da eficiência do painel.
+
+**Prazo Sugerido:** Urgente (≤ 48h), risco de dano permanente ao ativo.",22.0
+painel_97,C (Falha Oculta),MANUTENCAO_ELETRICA,MANUTENCAO_ELETRICA,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: MANUTENCAO_ELETRICA]
+
+**Contexto:** O painel_97 está operando com uma eficiência de 33.3%, indicando uma perda severa de geração de energia, apesar de estar visualmente limpo de acordo com o sensor YOLO. Isso sugere uma falha interna ou elétrica.
+
+**Causa Raiz:** A causa raiz da perda de eficiência é provavelmente uma falha elétrica ou interna, como microcracks, degradação de células, falha de string ou conexões oxidadas, que não são visíveis ao olho.
+
+**Contramedidas:** Realizar uma manutenção elétrica especializada para identificar e corrigir o problema, incluindo a inspeção de componentes internos e a reparo ou substituição de partes danificadas.
+
+**Prazo Sugerido:** Urgente (≤ 48h), devido ao risco de dano permanente ao ativo.",22.19
+painel_73,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_73 apresenta eficiência de 98.2%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias detectadas.
+
+**Causa Raiz:** A alta eficiência e a ausência de anomalias visuais indicam que o painel está operando dentro dos parâmetros normais, sem necessidade de intervenção.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando normalmente e dentro dos parâmetros estabelecidos.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.66
+painel_77,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_77 apresenta eficiência de 97.2%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias detectadas. Isso indica que o painel está funcionando corretamente.
+
+**Causa Raiz:** A causa raiz é a operação dentro dos parâmetros normais, com eficiência alta e ausência de detecções visuais de anomalias, indicando que o painel está funcionando corretamente.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.49
+painel_99,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_99 apresenta eficiência de 98.8%, acima do limite de 88%, indicando geração ótima de energia e funcionamento saudável. O laudo visual também não detectou anomalias.
+
+**Causa Raiz:** A alta eficiência do painel, combinada com a ausência de anomalias visuais, justifica a classificação como operação normal, de acordo com o Princípio 1 de Engenharia de O&M.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está funcionando dentro dos parâmetros esperados.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",20.8
+painel_65,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_65 apresenta eficiência de 96.9%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias. A operação está dentro dos parâmetros normais.
+
+**Causa Raiz:** A causa raiz é a conformidade do painel com os parâmetros de eficiência e a ausência de anomalias visuais, indicando funcionamento correto.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, manter o painel em operação normal.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.8
+painel_87,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_87 apresenta eficiência de 97.3%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias detectadas. A eficiência está acima de 90% e o laudo visual do YOLO confirma a limpeza do painel.
+
+**Causa Raiz:** A causa raiz é a conformidade do painel com os padrões de eficiência e limpeza estabelecidos, indicando operação normal.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.39
+painel_42,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_42 apresenta eficiência de 97.3%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias detectadas. Isso indica que o painel está funcionando corretamente.
+
+**Causa Raiz:** A causa raiz é a operação normal do painel, com concordância entre os sensores visual e telemetria elétrica, indicando que o painel está dentro dos parâmetros normais.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.84
+painel_69,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_69 apresenta eficiência de 98.4%, acima do limite de 88%, indicando geração ótima de energia e funcionamento dentro dos parâmetros esperados. O laudo visual do YOLO não detectou anomalias, classificando o painel como visualmente limpo.
+
+**Causa Raiz:** A alta eficiência do painel (98.4%) e a ausência de anomalias visuais detectadas pelo YOLO justificam a classificação como operação normal, seguindo o Princípio 1 de Engenharia de O&M, que considera a evidência elétrica como soberana.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros esperados e a eficiência está acima do limite aceitável.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.93
+painel_57,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_57 apresenta eficiência de 97.9%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias detectadas. Isso indica que o painel está funcionando corretamente.
+
+**Causa Raiz:** A causa raiz é a operação normal do painel, com eficiência alta e ausência de detecções visuais de anomalias, indicando que o painel está dentro dos parâmetros normais.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.51
+painel_83,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_83 apresenta eficiência de 98.0%, acima do limite de 88%, e não há anomalias visuais detectadas. Isso indica que o painel está operando com eficiência e está em condições normais.
+
+**Causa Raiz:** A causa raiz é a ausência de problemas técnicos ou de manutenção pendente que afetem a eficiência do painel, combinada com a confirmação visual e elétrica de que o painel está em boas condições.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais e não há indicação de problemas.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.1
+painel_32,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_32 apresenta eficiência de 96.7%, acima do limite de 88%, indicando geração ótima de energia e operação normal. O laudo visual também não detectou anomalias.
+
+**Causa Raiz:** A eficiência alta e a ausência de anomalias visuais indicam que o painel está funcionando corretamente, sem necessidade de intervenção.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",4.2
+painel_94,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_94 está operando com eficiência de 97.2%, acima do limite de 88%, e não apresenta anomalias visuais detectadas pelo YOLO. Sua eficiência e status indicam operação normal.
+
+**Causa Raiz:** A alta eficiência e a ausência de anomalias visuais detectadas pelo YOLO indicam que o painel está funcionando corretamente, sem necessidade de intervenção.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária. O painel deve continuar em operação normal, com monitoramento contínuo para garantir que sua eficiência e status se mantenham dentro dos parâmetros aceitáveis.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",2.76
+painel_23,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_23 apresenta uma eficiência de 97.5%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias detectadas. Isso indica que o sistema está operando dentro dos parâmetros saudáveis.
+
+**Causa Raiz:** A causa raiz é a conformidade do painel com os padrões de eficiência e a ausência de anomalias visuais, indicando que o sistema está funcionando corretamente.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.74
+painel_90,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_90 está operando com eficiência de 98.3%, acima do limite de 88%, e não apresenta anomalias visuais. Sua eficiência e status indicam geração ótima de energia.
+
+**Causa Raiz:** A alta eficiência do painel_90, combinada com a ausência de anomalias visuais detectadas pelo laudo visual do YOLO, justifica a classificação como operação normal, de acordo com o Princípio 1 de Engenharia de O&M.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está funcionando dentro dos parâmetros esperados.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.11
+painel_22,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_22 apresenta eficiência de 96.5%, está visualmente limpo e sem anomalias, indicando operação normal.
+
+**Causa Raiz:** A eficiência acima de 88% e a ausência de anomalias visuais ou elétricas justificam a operação normal do painel.
+
+**Contramedidas:** Nenhuma ação é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.55
+painel_55,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_55 apresenta eficiência de 96.7%, acima do limite de 88%, indicando geração ótima de energia e operação normal. O laudo visual também não detectou anomalias.
+
+**Causa Raiz:** A causa raiz é a operação dentro dos parâmetros normais de eficiência e a ausência de anomalias visuais, indicando que o painel está funcionando corretamente.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.5
+painel_47,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_47 apresenta eficiência de 98.0%, acima do limite de 88%, indicando geração ótima de energia e operação normal. O laudo visual também não detectou anomalias.
+
+**Causa Raiz:** A eficiência alta e a ausência de anomalias visuais indicam que o painel está funcionando corretamente, sem necessidade de intervenção.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.22
+painel_13,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_13 está operando com eficiência de 98.7%, acima do limite de 88%, e não apresenta anomalias visuais. Sua eficiência e status indicam geração ótima de energia.
+
+**Causa Raiz:** A alta eficiência do painel_13 e a ausência de anomalias visuais detectadas pelo laudo visual do YOLO justificam a classificação como operação normal, seguindo o Princípio 1 de Engenharia de O&M.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está funcionando dentro dos parâmetros esperados.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",3.04
+painel_21,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_21 apresenta eficiência de 98.5%, acima do limite de 88% estabelecido, e está visualmente limpo, sem anomalias detectadas.
+
+**Causa Raiz:** A combinação de alta eficiência e ausência de anomalias visuais, conforme laudo do YOLO, indica que o painel está operando dentro dos parâmetros normais.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros estabelecidos.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",10.06
+painel_45,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_45 está operando com eficiência de 97.4%, acima do limite de 88%, e não apresenta anomalias visuais detectadas pelo YOLO. Sua eficiência e status indicam operação normal.
+
+**Causa Raiz:** A alta eficiência do painel_45 e a ausência de anomalias visuais detectadas pelo YOLO justificam a operação normal do painel, atendendo aos Princípios 1 e 4 de Engenharia de O&M.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais e não há indicação de necessidade de limpeza ou manutenção elétrica.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.26
+painel_91,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_91 está operando com eficiência de 98.3%, acima do limite de 88%, e não apresenta anomalias visuais. Isso indica que o painel está funcionando dentro dos parâmetros normais de geração de energia.
+
+**Causa Raiz:** A alta eficiência do painel_91 e a ausência de anomalias visuais detectadas pelo laudo visual do YOLO justificam a classificação como operação normal.
+
+**Contramedidas:** Nenhuma ação adicional é necessária, pois o painel está operando dentro dos parâmetros normais.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.32
+painel_63,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_63 está operando com eficiência de 96.2%, acima do limite de 88%, e não apresenta anomalias visuais detectadas pelo YOLO. Seu status é de operação normal.
+
+**Causa Raiz:** A causa raiz é a ausência de falhas ou anomalias significativas no painel, tanto em termos de eficiência quanto em inspeções visuais, indicando que o painel está funcionando conforme o esperado.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está operando dentro dos parâmetros normais e não há evidências de problemas que justifiquem intervenção.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.38
+painel_95,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_95 está operando com eficiência de 97.6%, acima do limite de 88% estabelecido, e apresenta-se visualmente limpo, sem anomalias detectadas.
+
+**Causa Raiz:** A combinação de alta eficiência e ausência de anomalias visuais, conforme laudo do YOLO, justifica a operação normal do painel.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está dentro dos parâmetros de operação normal.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",21.55
+painel_96,D (Controle),OPERACAO_NORMAL,OPERACAO_NORMAL,True,"### TEMPLATE A3 OBRIGATÓRIO:
+
+**Código de Decisão:** [CÓDIGO: OPERACAO_NORMAL]
+
+**Contexto:** O painel_96 está operando com eficiência de 98.1%, acima do limite de 88%, e não apresenta anomalias visuais ou elétricas, indicando funcionamento normal.
+
+**Causa Raiz:** A alta eficiência e a ausência de anomalias detectadas pelo laudo visual do YOLO e pela telemetria elétrica justificam a operação normal do painel.
+
+**Contramedidas:** Nenhuma ação corretiva é necessária, pois o painel está dentro dos parâmetros normais de operação.
+
+**Prazo Sugerido:** OPERACAO_NORMAL → Nenhuma ação. Próxima inspeção no ciclo padrão.",20.72

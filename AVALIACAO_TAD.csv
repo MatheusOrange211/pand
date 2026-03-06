@@ -1,0 +1,7 @@
+Cenario,Acertos,Total,TAD_pct
+A (Convergência Ruim),7,15,46.7
+B (Falso Positivo),25,25,100.0
+C (Falha Oculta),20,20,100.0
+D (Controle),23,23,100.0
+E (Ambiguidade Extrema),17,17,100.0
+GLOBAL,92,100,92.0
