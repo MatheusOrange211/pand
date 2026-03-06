@@ -81,10 +81,9 @@ pandtcc/
    - Ajuste de parâmetros do agente Llama no arquivo `pand_system/agent.py` conforme necessidade.
    - Modelos YOLO ou TFLite podem ser substituídos ou recalibrados em `models/`.
 
-## Licença
-(Informe aqui a licença do seu projeto, se aplicável.)
-
 ---
 
 📌 *Este README serve como guia para pesquisadores e desenvolvedores interessados na fusão semântica de visão computacional e LLMs para manutenção fotovoltaica.*
-# pand
+
+
+_Em homenagem a Pandora_
